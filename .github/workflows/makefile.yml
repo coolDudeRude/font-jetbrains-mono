@@ -15,7 +15,7 @@ jobs:
     - uses: actions/checkout@v4
 
     - name: install dependencies
-      run: apt install moreutils m4 zip
+      run: sudo apt install moreutils m4 zip
 
     - name: build-pk3
       run: make
