@@ -1,5 +1,9 @@
 # JetBrains-Mono Font for Xonotic
 
+> [!NOTE]
+> JetBrainsMono fonts are provided under [OFL](./OFL.txt), while the reset
+> of the configs and scripts in this repo are licensed under [MIT](./LICENSE).
+
 ## Build Dependencies
 
 ```bash
